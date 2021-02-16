@@ -1,9 +1,9 @@
 #!/bin/bash
 
 # Objectives:
-# [x] Write a Bash script that prints the login history of users on this computer.
-# [x] Your script must use at least one function and one variable.
-# [x] Include a function that accepts a parameter and uses it.
+# [X] Write a Bash script that prints the login history of users on this computer.
+# [X] Your script must use at least one function and one variable.
+# [X] Include a function that accepts a parameter and uses it.
 
 
 function log_history () {
